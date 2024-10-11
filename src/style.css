@@ -1,0 +1,15 @@
+body{
+  background-color:DeepSkyBlue;
+}
+.cont{
+   display:flex;
+justify-content:center;
+}
+.border{
+   width:700px;
+   border:3px solid Black;
+  height:350px;
+  display:flex;
+ align-items:center;
+  flex-direction:column;
+}
